@@ -54,7 +54,18 @@ body{
     color:white;
     font-size: 11px;
 }
-
+.scratchcard{
+    border-style: solid;
+    border-color: white;
+    border-width:1px;
+    width:200px;
+    height:100px;
+    position: fixed;
+    bottom: 0;
+    right:0;
+    margin:12px;
+    color:white;
+}
 #promeat{
 
 }
